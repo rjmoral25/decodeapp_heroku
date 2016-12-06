@@ -214,3 +214,39 @@ loaded remote repo at github.
 
 ####Not Working
 * [Amil](http:/herokurecipeamil.herokuapp.com/)
+
+
+#####Final Exam
+
+Part 1: Submit your complete APP on December 09, Friday, 5:00 PM
+ 
+ * Your App should have:
+  * Landing page
+  * Search page
+  * JSON content
+  * Create Object
+  * Read Object
+  * Update Object
+  * Delete Object
+  * Small image sizes
+ * Your App should be:
+  * compliant of Object-Oriented Programming Discipline
+  * hosted at Github Remote Repository
+  * hosted at Heroku Cloud Platform
+ * Attach these files in to your Final Examination booklet
+  * APP Name
+  * APP Description
+  * APP Class Diagram
+  * APP UX/UI Design Prototypes
+  * APP Github Repository Link
+  * APP Heroku Link
+
+```
+Note: Failure to submit will not be given any chances to proceed to Part 2 and may result to Course Re-enrolment.
+```
+
+Part 2: Prepare for APP Debugging on December 12, Monday, 1:00 PM - 5:00 PM
+
+ * Troubleshooting Scenario
+  * The instructor will inject an erroneuos syntax and you will correct it in a given time
+  * Modify your APP's JSON object and apply changes to your APP
