@@ -187,6 +187,8 @@ loaded remote repo at github.
 
 ###Hurray!! to the following students 🏆
 
+####DVD
+
 * [Quisay](http://decodeapp-herokuquisaysa.herokuapp.com/)
 * [Suarez](http://decodeapp-herokusuarez.herokuapp.com/)
 * [Prajes](http://decodeapp-herokuprajes.herokuapp.com/)
@@ -194,3 +196,21 @@ loaded remote repo at github.
 * [Nicolas](http://decodeapp-herokunicolas1.herokuapp.com/)
 * [Hanoyan](http://decodeapp-herokuhanoyan.herokuapp.com/)
 
+####DVC
+
+* [Chatto](http://decodeapp-herokuchatto.herokuapp.com/)
+* [Tan](http://decodeapp-herokutan.herokuapp.com/)
+* [Binobo](http://decodeapp-herokubinobo.herokuapp.com/)
+* [Dela Cruz](http://decodeapp-herokudelacruz.herokuapp.com/)
+* [Yuson](http://decodeapp-herokuyuson.herokuapp.com/)
+* [Relox](http://decodeapp-herokurelox.herokuapp.com/)
+* [Tamayo](http://decodeapp-herokutamayo.herokuapp.com/)
+* [Tumala](http://decodeapp-herokutumala.herokuapp.com/)
+* [Varquez](http://decodeapp-herokuvarquez.herokuapp.com/)
+* [Goubelle](http://decodeapp-herokugoubelle.herokuapp.com/)
+* [Jamola](http://decodeapp-herokujamola.herokuapp.com/)
+* [Botoy](http://decodeapp-herokubotoy.herokuapp.com/)
+* [Adlawan](http://decodeapp-herokuadlawan.herokuapp.com/)
+
+####Not Working
+* [Amil](http:/herokurecipeamil.herokuapp.com/)
